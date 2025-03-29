@@ -648,5 +648,355 @@
     "category": "tempat",
     "level": "N5",
     "audio": "../audio/kouen.mp3"
+  },
+  {
+    "id": 66,
+    "kanji": "家",
+    "hiragana": "いえ",
+    "romaji": "ie",
+    "meaning": "rumah",
+    "category": "tempat",
+    "level": "N5",
+    "audio": "../audio/ie.mp3"
+  },
+  {
+    "id": 67,
+    "kanji": "部屋",
+    "hiragana": "へや",
+    "romaji": "heya",
+    "meaning": "kamar",
+    "category": "tempat",
+    "level": "N5",
+    "audio": "../audio/heya.mp3"
+  },
+  {
+    "id": 68,
+    "kanji": "台所",
+    "hiragana": "だいどころ",
+    "romaji": "daidokoro",
+    "meaning": "dapur",
+    "category": "tempat",
+    "level": "N5",
+    "audio": "../audio/daidokoro.mp3"
+  },
+  {
+    "id": 69,
+    "kanji": "風呂",
+    "hiragana": "ふろ",
+    "romaji": "furo",
+    "meaning": "bak mandi",
+    "category": "tempat",
+    "level": "N5",
+    "audio": "../audio/furo.mp3"
+  },
+  {
+    "id": 70,
+    "kanji": "庭",
+    "hiragana": "にわ",
+    "romaji": "niwa",
+    "meaning": "halaman",
+    "category": "tempat",
+    "level": "N5",
+    "audio": "../audio/niwa.mp3"
+  },
+  {
+    "id": 71,
+    "kanji": "犬",
+    "hiragana": "いぬ",
+    "romaji": "inu",
+    "meaning": "anjing",
+    "category": "hewan",
+    "level": "N5",
+    "audio": "audio/inu.mp3"
+  },
+  {
+    "id": 72,
+    "kanji": "猫",
+    "hiragana": "ねこ",
+    "romaji": "neko",
+    "meaning": "kucing",
+    "category": "hewan",
+    "level": "N5",
+    "audio": "audio/neko.mp3"
+  },
+  {
+    "id": 73,
+    "kanji": "鳥",
+    "hiragana": "とり",
+    "romaji": "tori",
+    "meaning": "burung",
+    "category": "hewan",
+    "level": "N5",
+    "audio": "audio/tori.mp3"
+  },
+  {
+    "id": 74,
+    "kanji": "魚",
+    "hiragana": "さかな",
+    "romaji": "sakana",
+    "meaning": "ikan",
+    "category": "hewan",
+    "level": "N5",
+    "audio": "audio/sakana.mp3"
+  },
+  {
+    "id": 75,
+    "kanji": "馬",
+    "hiragana": "うま",
+    "romaji": "uma",
+    "meaning": "kuda",
+    "category": "hewan",
+    "level": "N5",
+    "audio": "audio/uma.mp3"
+  },
+  {
+    "id": 76,
+    "kanji": "手",
+    "hiragana": "て",
+    "romaji": "te",
+    "meaning": "tangan",
+    "category": "anggota tubuh",
+    "level": "N5",
+    "audio": "audio/te.mp3"
+  },
+  {
+    "id": 77,
+    "kanji": "足",
+    "hiragana": "あし",
+    "romaji": "ashi",
+    "meaning": "kaki",
+    "category": "anggota tubuh",
+    "level": "N5",
+    "audio": "audio/ashi.mp3"
+  },
+  {
+    "id": 78,
+    "kanji": "目",
+    "hiragana": "め",
+    "romaji": "me",
+    "meaning": "mata",
+    "category": "anggota tubuh",
+    "level": "N5",
+    "audio": "audio/me.mp3"
+  },
+  {
+    "id": 79,
+    "kanji": "口",
+    "hiragana": "くち",
+    "romaji": "kuchi",
+    "meaning": "mulut",
+    "category": "anggota tubuh",
+    "level": "N5",
+    "audio": "audio/kuchi.mp3"
+  },
+  {
+    "id": 80,
+    "kanji": "耳",
+    "hiragana": "みみ",
+    "romaji": "mimi",
+    "meaning": "telinga",
+    "category": "anggota tubuh",
+    "level": "N5",
+    "audio": "audio/mimi.mp3"
+  },
+  {
+    "id": 81,
+    "kanji": "頭",
+    "hiragana": "あたま",
+    "romaji": "atama",
+    "meaning": "kepala",
+    "category": "anggota tubuh",
+    "level": "N5",
+    "audio": "audio/atama.mp3"
+  },
+  {
+    "id": 82,
+    "kanji": "顔",
+    "hiragana": "かお",
+    "romaji": "kao",
+    "meaning": "wajah",
+    "category": "anggota tubuh",
+    "level": "N5",
+    "audio": "audio/kao.mp3"
+  },
+  {
+    "id": 83,
+    "kanji": "指",
+    "hiragana": "ゆび",
+    "romaji": "yubi",
+    "meaning": "jari",
+    "category": "anggota tubuh",
+    "level": "N5",
+    "audio": "audio/yubi.mp3"
+  },
+  {
+    "id": 84,
+    "kanji": "歯",
+    "hiragana": "は",
+    "romaji": "ha",
+    "meaning": "gigi",
+    "category": "anggota tubuh",
+    "level": "N5",
+    "audio": "audio/ha.mp3"
+  },
+  {
+    "id": 85,
+    "kanji": "心",
+    "hiragana": "こころ",
+    "romaji": "kokoro",
+    "meaning": "hati/perasaan",
+    "category": "anggota tubuh",
+    "level": "N5",
+    "audio": "audio/kokoro.mp3"
+  },
+  {
+    "id": 86,
+    "kanji": "服",
+    "hiragana": "ふく",
+    "romaji": "fuku",
+    "meaning": "baju",
+    "category": "pakaian",
+    "level": "N5",
+    "audio": "audio/fuku.mp3"
+  },
+  {
+    "id": 87,
+    "kanji": "帽子",
+    "hiragana": "ぼうし",
+    "romaji": "boushi",
+    "meaning": "topi",
+    "category": "pakaian",
+    "level": "N5",
+    "audio": "../audio/boushi.mp3"
+  },
+  {
+    "id": 88,
+    "kanji": "靴",
+    "hiragana": "くつ",
+    "romaji": "kutsu",
+    "meaning": "sepatu",
+    "category": "pakaian",
+    "level": "N5",
+    "audio": "../audio/kutsu.mp3"
+  },
+  {
+    "id": 89,
+    "kanji": "眼鏡",
+    "hiragana": "めがね",
+    "romaji": "megane",
+    "meaning": "kacamata",
+    "category": "pakaian",
+    "level": "N5",
+    "audio": "audio/megane.mp3"
+  },
+  {
+    "id": 90,
+    "kanji": "手袋",
+    "hiragana": "てぶくろ",
+    "romaji": "tebukuro",
+    "meaning": "sarung tangan",
+    "category": "pakaian",
+    "level": "N5",
+    "audio": "audio/tebukuro.mp3"
+  },
+  {
+    "id": 91,
+    "kanji": "時計",
+    "hiragana": "とけい",
+    "romaji": "tokei",
+    "meaning": "jam",
+    "category": "benda sehari-hari",
+    "level": "N5",
+    "audio": "../audio/tokei.mp3"
+  },
+  {
+    "id": 92,
+    "kanji": "傘",
+    "hiragana": "かさ",
+    "romaji": "kasa",
+    "meaning": "payung",
+    "category": "benda sehari-hari",
+    "level": "N5",
+    "audio": "audio/kasa.mp3"
+  },
+  {
+    "id": 93,
+    "kanji": "机",
+    "hiragana": "つくえ",
+    "romaji": "tsukue",
+    "meaning": "meja",
+    "category": "benda sehari-hari",
+    "level": "N5",
+    "audio": "../audio/tsukue.mp3"
+  },
+  {
+    "id": 94,
+    "kanji": "椅子",
+    "hiragana": "いす",
+    "romaji": "isu",
+    "meaning": "kursi",
+    "category": "benda sehari-hari",
+    "level": "N5",
+    "audio": "../audio/isu.mp3"
+  },
+  {
+    "id": 95,
+    "kanji": "窓",
+    "hiragana": "まど",
+    "romaji": "mado",
+    "meaning": "jendela",
+    "category": "benda sehari-hari",
+    "level": "N5",
+    "audio": "../audio/mado.mp3"
+  },
+  {
+    "id": 96,
+    "kanji": "本",
+    "hiragana": "ほん",
+    "romaji": "hon",
+    "meaning": "buku",
+    "category": "benda sehari-hari",
+    "level": "N5",
+    "audio": "../audio/hon.mp3"
+  },
+  {
+    "id": 97,
+    "kanji": "紙",
+    "hiragana": "かみ",
+    "romaji": "kami",
+    "meaning": "kertas",
+    "category": "benda sehari-hari",
+    "level": "N5",
+    "audio": "../audio/kami.mp3"
+  },
+  {
+    "id": 98,
+    "kanji": "鉛筆",
+    "hiragana": "えんぴつ",
+    "romaji": "enpitsu",
+    "meaning": "pensil",
+    "category": "benda sehari-hari",
+    "level": "N5",
+    "audio": "../audio/enpitsu.mp3"
+  },
+  {
+    "id": 99,
+    "kanji": "消しゴム",
+    "hiragana": "けしごむ",
+    "romaji": "keshigomu",
+    "meaning": "penghapus",
+    "category": "benda sehari-hari",
+    "level": "N5",
+    "audio": "../audio/keshigomu.mp3"
+  },
+  {
+    "id": 100,
+    "kanji": "鞄",
+    "hiragana": "かばん",
+    "romaji": "kaban",
+    "meaning": "tas",
+    "category": "benda sehari-hari",
+    "level": "N5",
+    "audio": "../audio/kaban.mp3"
   }
 ]
