@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1,
+    "kanji": "学校",
+    "hiragana": "がっこう",
+    "romaji": "gakkou",
+    "meaning": "sekolah",
+    "category": "pendidikan",
+    "level": "pemula",
+    "audio": "../audio/gakkou.mp3"
+  },
+  {
+    "id": 2,
+    "kanji": "学生",
+    "hiragana": "がくせい",
+    "romaji": "gakusei",
+    "meaning": "pelajar/mahasiswa",
+    "category": "pendidikan",
+    "level": "pemula",
+    "audio": "../audio/gakusei.mp3"
+  },
+  {
+    "id": 3,
+    "kanji": "食べる",
+    "hiragana": "たべる",
+    "romaji": "taberu",
+    "meaning": "makan",
+    "category": "aktivitas sehari-hari",
+    "level": "pemula",
+    "audio": "../audio/taberu.mp3"
+  },
+  {
+    "id": 4,
+    "kanji": "水",
+    "hiragana": "みず",
+    "romaji": "mizu",
+    "meaning": "air",
+    "category": "benda sehari-hari",
+    "level": "pemula",
+    "audio": "../audio/mizu.mp3"
+  },
+  {
+    "id": 5,
+    "kanji": "ありがとう",
+    "hiragana": "ありがとう",
+    "romaji": "arigatou",
+    "meaning": "terima kasih",
+    "category": "ungkapan",
+    "level": "pemula",
+    "audio": "../audio/arigatou.mp3"
+  },
+  {
+    "id": 6,
+    "kanji": "朝",
+    "hiragana": "あさ",
+    "romaji": "asa",
+    "meaning": "pagi",
+    "category": "waktu",
+    "level": "N5",
+    "audio": "audio/asa.mp3"
+  },
+  {
+    "id": 7,
+    "kanji": "夜",
+    "hiragana": "よる",
+    "romaji": "yoru",
+    "meaning": "malam",
+    "category": "waktu",
+    "level": "N5",
+    "audio": "audio/yoru.mp3"
+  },
+  {
+    "id": 8,
+    "kanji": "食べ物",
+    "hiragana": "たべもの",
+    "romaji": "tabemono",
+    "meaning": "makanan",
+    "category": "makanan",
+    "level": "N5",
+    "audio": "audio/tabemono.mp3"
+  },
+  {
+    "id": 9,
+    "kanji": "飲み物",
+    "hiragana": "のみもの",
+    "romaji": "nomimono",
+    "meaning": "minuman",
+    "category": "makanan",
+    "level": "N5",
+    "audio": "audio/nomimono.mp3"
+  },
+  {
+    "id": 10,
+    "kanji": "家",
+    "hiragana": "いえ",
+    "romaji": "ie",
+    "meaning": "rumah",
+    "category": "tempat",
+    "level": "N5",
+    "audio": "audio/ie.mp3"
+  },
+  {
+    "id": 11,
+    "kanji": "ドア",
+    "hiragana": "ドア",
+    "romaji": "doa",
+    "meaning": "pintu",
+    "category": "benda",
+    "level": "N5",
+    "audio": "audio/doa.mp3"
+  },
+  {
+    "id": 12,
+    "kanji": "窓",
+    "hiragana": "まど",
+    "romaji": "mado",
+    "meaning": "jendela",
+    "category": "benda",
+    "level": "N5",
+    "audio": "audio/mado.mp3"
+  },
+  {
+    "id": 13,
+    "kanji": "靴",
+    "hiragana": "くつ",
+    "romaji": "kutsu",
+    "meaning": "sepatu",
+    "category": "pakaian",
+    "level": "N5",
+    "audio": "audio/kutsu.mp3"
+  },
+  {
+    "id": 14,
+    "kanji": "帽子",
+    "hiragana": "ぼうし",
+    "romaji": "boushi",
+    "meaning": "topi",
+    "category": "pakaian",
+    "level": "N5",
+    "audio": "audio/boushi.mp3"
+  },
+  {
+    "id": 15,
+    "kanji": "鍵",
+    "hiragana": "かぎ",
+    "romaji": "kagi",
+    "meaning": "kunci",
+    "category": "benda",
+    "level": "N5",
+    "audio": "audio/kagi.mp3"
+  },
+  {
+    "id": 16,
+    "kanji": "机",
+    "hiragana": "つくえ",
+    "romaji": "tsukue",
+    "meaning": "meja",
+    "category": "benda",
+    "level": "N5",
+    "audio": "audio/tsukue.mp3"
+  },
+  {
+    "id": 17,
+    "kanji": "椅子",
+    "hiragana": "いす",
+    "romaji": "isu",
+    "meaning": "kursi",
+    "category": "benda",
+    "level": "N5",
+    "audio": "audio/isu.mp3"
+  },
+  {
+    "id": 18,
+    "kanji": "本",
+    "hiragana": "ほん",
+    "romaji": "hon",
+    "meaning": "buku",
+    "category": "benda",
+    "level": "N5",
+    "audio": "audio/hon.mp3"
+  },
+  {
+    "id": 19,
+    "kanji": "新聞",
+    "hiragana": "しんぶん",
+    "romaji": "shinbun",
+    "meaning": "koran",
+    "category": "benda",
+    "level": "N5",
+    "audio": "audio/shinbun.mp3"
+  },
+  {
+    "id": 20,
+    "kanji": "時計",
+    "hiragana": "とけい",
+    "romaji": "tokei",
+    "meaning": "jam",
+    "category": "benda",
+    "level": "N5",
+    "audio": "audio/tokei.mp3"
+  },
+  {
+    "id": 21,
+    "kanji": "手紙",
+    "hiragana": "てがみ",
+    "romaji": "tegami",
+    "meaning": "surat",
+    "category": "benda",
+    "level": "N5",
+    "audio": "audio/tegami.mp3"
+  },
+  {
+    "id": 22,
+    "kanji": "財布",
+    "hiragana": "さいふ",
+    "romaji": "saifu",
+    "meaning": "dompet",
+    "category": "benda",
+    "level": "N5",
+    "audio": "audio/saifu.mp3"
+  },
+  {
+    "id": 23,
+    "kanji": "電話",
+    "hiragana": "でんわ",
+    "romaji": "denwa",
+    "meaning": "telepon",
+    "category": "benda",
+    "level": "N5",
+    "audio": "audio/denwa.mp3"
+  },
+  {
+    "id": 24,
+    "kanji": "車",
+    "hiragana": "くるま",
+    "romaji": "kuruma",
+    "meaning": "mobil",
+    "category": "kendaraan",
+    "level": "N5",
+    "audio": "audio/kuruma.mp3"
+  },
+  {
+    "id": 25,
+    "kanji": "自転車",
+    "hiragana": "じてんしゃ",
+    "romaji": "jitensha",
+    "meaning": "sepeda",
+    "category": "kendaraan",
+    "level": "N5",
+    "audio": "audio/jitensha.mp3"
+  },
+  {
+    "id": 26,
+    "kanji": "電車",
+    "hiragana": "でんしゃ",
+    "romaji": "densha",
+    "meaning": "kereta listrik",
+    "category": "kendaraan",
+    "level": "N5",
+    "audio": "audio/densha.mp3"
+  },
+  {
+    "id": 27,
+    "kanji": "駅",
+    "hiragana": "えき",
+    "romaji": "eki",
+    "meaning": "stasiun",
+    "category": "tempat",
+    "level": "N5",
+    "audio": "audio/eki.mp3"
+  },
+  {
+    "id": 28,
+    "kanji": "道",
+    "hiragana": "みち",
+    "romaji": "michi",
+    "meaning": "jalan",
+    "category": "tempat",
+    "level": "N5",
+    "audio": "audio/michi.mp3"
+  },
+  {
+    "id": 29,
+    "kanji": "公園",
+    "hiragana": "こうえん",
+    "romaji": "kouen",
+    "meaning": "taman",
+    "category": "tempat",
+    "level": "N5",
+    "audio": "audio/kouen.mp3"
+  },
+  {
+    "id": 30,
+    "kanji": "病院",
+    "hiragana": "びょういん",
+    "romaji": "byouin",
+    "meaning": "rumah sakit",
+    "category": "tempat",
+    "level": "N5",
+    "audio": "audio/byouin.mp3"
+  },
+  {
+    "id": 31,
+    "kanji": "店",
+    "hiragana": "みせ",
+    "romaji": "mise",
+    "meaning": "toko",
+    "category": "tempat",
+    "level": "N5",
+    "audio": "audio/mise.mp3"
+  },
+  {
+    "id": 32,
+    "kanji": "銀行",
+    "hiragana": "ぎんこう",
+    "romaji": "ginkou",
+    "meaning": "bank",
+    "category": "tempat",
+    "level": "N5",
+    "audio": "audio/ginkou.mp3"
+  },
+  {
+    "id": 33,
+    "kanji": "図書館",
+    "hiragana": "としょかん",
+    "romaji": "toshokan",
+    "meaning": "perpustakaan",
+    "category": "tempat",
+    "level": "N5",
+    "audio": "audio/toshokan.mp3"
+  },
+  {
+    "id": 34,
+    "kanji": "学校",
+    "hiragana": "がっこう",
+    "romaji": "gakkou",
+    "meaning": "sekolah",
+    "category": "tempat",
+    "level": "N5",
+    "audio": "../audio/gakkou.mp3"
+  },
+  {
+    "id": 35,
+    "kanji": "会社",
+    "hiragana": "かいしゃ",
+    "romaji": "kaisha",
+    "meaning": "perusahaan",
+    "category": "tempat",
+    "level": "N5",
+    "audio": "audio/kaisha.mp3"
+  },
+  {
+    "id": 36,
+    "kanji": "家",
+    "hiragana": "いえ",
+    "romaji": "ie",
+    "meaning": "rumah",
+    "category": "tempat",
+    "level": "N5",
+    "audio": "../audio/ie.mp3"
+  },
+  {
+    "id": 37,
+    "kanji": "部屋",
+    "hiragana": "へや",
+    "romaji": "heya",
+    "meaning": "kamar",
+    "category": "tempat",
+    "level": "N5",
+    "audio": "audio/heya.mp3"
+  },
+  {
+    "id": 38,
+    "kanji": "台所",
+    "hiragana": "だいどころ",
+    "romaji": "daidokoro",
+    "meaning": "dapur",
+    "category": "tempat",
+    "level": "N5",
+    "audio": "audio/daidokoro.mp3"
+  },
+  {
+    "id": 39,
+    "kanji": "風呂",
+    "hiragana": "ふろ",
+    "romaji": "furo",
+    "meaning": "bak mandi",
+    "category": "tempat",
+    "level": "N5",
+    "audio": "audio/furo.mp3"
+  },
+  {
+    "id": 40,
+    "kanji": "庭",
+    "hiragana": "にわ",
+    "romaji": "niwa",
+    "meaning": "halaman/taman rumah",
+    "category": "tempat",
+    "level": "N5",
+    "audio": "audio/niwa.mp3"
+  },
+  {
+    "id": 41,
+    "kanji": "窓",
+    "hiragana": "まど",
+    "romaji": "mado",
+    "meaning": "jendela",
+    "category": "benda",
+    "level": "N5",
+    "audio": "../audio/mado.mp3"
+  },
+  {
+    "id": 42,
+    "kanji": "扉",
+    "hiragana": "とびら",
+    "romaji": "tobira",
+    "meaning": "pintu",
+    "category": "benda",
+    "level": "N5",
+    "audio": "audio/tobira.mp3"
+  },
+  {
+    "id": 43,
+    "kanji": "鍵",
+    "hiragana": "かぎ",
+    "romaji": "kagi",
+    "meaning": "kunci",
+    "category": "benda",
+    "level": "N5",
+    "audio": "../audio/kagi.mp3"
+  },
+  {
+    "id": 44,
+    "kanji": "鏡",
+    "hiragana": "かがみ",
+    "romaji": "kagami",
+    "meaning": "cermin",
+    "category": "benda",
+    "level": "N5",
+    "audio": "audio/kagami.mp3"
+  },
+  {
+    "id": 45,
+    "kanji": "電気",
+    "hiragana": "でんき",
+    "romaji": "denki",
+    "meaning": "listrik",
+    "category": "benda",
+    "level": "N5",
+    "audio": "audio/denki.mp3"
+  },
+  {
+    "id": 46,
+    "kanji": "机",
+    "hiragana": "つくえ",
+    "romaji": "tsukue",
+    "meaning": "meja",
+    "category": "benda",
+    "level": "N5",
+    "audio": "../audio/tsukue.mp3"
+  },
+  {
+    "id": 47,
+    "kanji": "椅子",
+    "hiragana": "いす",
+    "romaji": "isu",
+    "meaning": "kursi",
+    "category": "benda",
+    "level": "N5",
+    "audio": "../audio/isu.mp3"
+  },
+  {
+    "id": 48,
+    "kanji": "本",
+    "hiragana": "ほん",
+    "romaji": "hon",
+    "meaning": "buku",
+    "category": "benda",
+    "level": "N5",
+    "audio": "../audio/hon.mp3"
+  },
+  {
+    "id": 49,
+    "kanji": "時計",
+    "hiragana": "とけい",
+    "romaji": "tokei",
+    "meaning": "jam",
+    "category": "benda",
+    "level": "N5",
+    "audio": "../audio/tokei.mp3"
+  },
+  {
+    "id": 50,
+    "kanji": "鉛筆",
+    "hiragana": "えんぴつ",
+    "romaji": "enpitsu",
+    "meaning": "pensil",
+    "category": "benda",
+    "level": "N5",
+    "audio": "audio/enpitsu.mp3"
+  },
+  {
+    "id": 51,
+    "kanji": "紙",
+    "hiragana": "かみ",
+    "romaji": "kami",
+    "meaning": "kertas",
+    "category": "benda",
+    "level": "N5",
+    "audio": "audio/kami.mp3"
+  },
+  {
+    "id": 52,
+    "kanji": "消しゴム",
+    "hiragana": "けしゴム",
+    "romaji": "keshigomu",
+    "meaning": "penghapus",
+    "category": "benda",
+    "level": "N5",
+    "audio": "audio/keshigomu.mp3"
+  },
+  {
+    "id": 53,
+    "kanji": "鞄",
+    "hiragana": "かばん",
+    "romaji": "kaban",
+    "meaning": "tas",
+    "category": "benda",
+    "level": "N5",
+    "audio": "audio/kaban.mp3"
+  },
+  {
+    "id": 54,
+    "kanji": "財布",
+    "hiragana": "さいふ",
+    "romaji": "saifu",
+    "meaning": "dompet",
+    "category": "benda",
+    "level": "N5",
+    "audio": "../audio/saifu.mp3"
+  },
+  {
+    "id": 55,
+    "kanji": "電話",
+    "hiragana": "でんわ",
+    "romaji": "denwa",
+    "meaning": "telepon",
+    "category": "benda",
+    "level": "N5",
+    "audio": "../audio/denwa.mp3"
+  },
+  {
+    "id": 56,
+    "kanji": "車",
+    "hiragana": "くるま",
+    "romaji": "kuruma",
+    "meaning": "mobil",
+    "category": "kendaraan",
+    "level": "N5",
+    "audio": "../audio/kuruma.mp3"
+  },
+  {
+    "id": 57,
+    "kanji": "自転車",
+    "hiragana": "じてんしゃ",
+    "romaji": "jitensha",
+    "meaning": "sepeda",
+    "category": "kendaraan",
+    "level": "N5",
+    "audio": "../audio/jitensha.mp3"
+  },
+  {
+    "id": 58,
+    "kanji": "電車",
+    "hiragana": "でんしゃ",
+    "romaji": "densha",
+    "meaning": "kereta listrik",
+    "category": "kendaraan",
+    "level": "N5",
+    "audio": "../audio/densha.mp3"
+  },
+  {
+    "id": 59,
+    "kanji": "飛行機",
+    "hiragana": "ひこうき",
+    "romaji": "hikouki",
+    "meaning": "pesawat",
+    "category": "kendaraan",
+    "level": "N5",
+    "audio": "audio/hikouki.mp3"
+  },
+  {
+    "id": 60,
+    "kanji": "船",
+    "hiragana": "ふね",
+    "romaji": "fune",
+    "meaning": "kapal",
+    "category": "kendaraan",
+    "level": "N5",
+    "audio": "audio/fune.mp3"
+  },
+  {
+    "id": 61,
+    "kanji": "駅",
+    "hiragana": "えき",
+    "romaji": "eki",
+    "meaning": "stasiun",
+    "category": "tempat",
+    "level": "N5",
+    "audio": "../audio/eki.mp3"
+  },
+  {
+    "id": 62,
+    "kanji": "病院",
+    "hiragana": "びょういん",
+    "romaji": "byouin",
+    "meaning": "rumah sakit",
+    "category": "tempat",
+    "level": "N5",
+    "audio": "../audio/byouin.mp3"
+  },
+  {
+    "id": 63,
+    "kanji": "郵便局",
+    "hiragana": "ゆうびんきょく",
+    "romaji": "yuubinkyoku",
+    "meaning": "kantor pos",
+    "category": "tempat",
+    "level": "N5",
+    "audio": "audio/yuubinkyoku.mp3"
+  },
+  {
+    "id": 64,
+    "kanji": "銀行",
+    "hiragana": "ぎんこう",
+    "romaji": "ginkou",
+    "meaning": "bank",
+    "category": "tempat",
+    "level": "N5",
+    "audio": "../audio/ginkou.mp3"
+  },
+  {
+    "id": 65,
+    "kanji": "公園",
+    "hiragana": "こうえん",
+    "romaji": "kouen",
+    "meaning": "taman",
+    "category": "tempat",
+    "level": "N5",
+    "audio": "../audio/kouen.mp3"
+  }
+]

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Belajar kosakata bahasa Jepang dengan sistem pengucapan dan koreksi suara">
+    <title>Nihongo Master - Belajar Kosakata Jepang dengan Koreksi Pengucapan</title>
+    
+    <!-- Preload resources -->
+ 
+    <link rel="preload" href="css/style.css" as="style">
+    <link rel="preload" href="js/app.js" as="script">
+    
+    <!-- Font Awesome untuk ikon -->
+  
+    <!-- Link ke file CSS eksternal -->
+    <link rel="stylesheet" href="css/style.css">
+    
+    <!-- Favicon -->
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <header aria-label="Header utama">
+        <div class="container">
+            <h1>Nihongo Master</h1>
+            <p class="tagline">Belajar kosakata bahasa Jepang dengan sistem koreksi pengucapan</p>
+        </div>
+    </header>
+    
+    <main class="container" id="main-content">
+        <nav aria-label="Breadcrumb">
+            <div class="breadcrumb">
+                <a href="/">Home</a> &gt; <a href="/vocabulary">Kosakata</a> &gt; <span aria-current="page">Daftar Kosakata</span>
+            </div>
+        </nav>
+        
+        <h2 class="page-title">Daftar Kosakata Jepang</h2>
+        
+        <section aria-label="Pencarian kosakata">
+            <div class="search-box">
+                <label for="searchVocab" class="sr-only">Cari kosakata</label>
+                <input type="text" id="searchVocab" placeholder="Cari kosakata..." aria-label="Masukkan kata kunci pencarian">
+                <button id="voiceSearchBtn" aria-label="Cari dengan suara">
+                    <i class="fas fa-microphone" aria-hidden="true"></i> Cari dengan Suara
+                </button>
+            </div>
+        </section>
+        
+        <section aria-label="Daftar kosakata">
+            <div class="vocab-list" id="vocabList" role="list">
+                <!-- Kosakata akan dimuat di sini dari JSON -->
+                <div class="loading-message">Memuat kosakata...</div>
+            </div>
+        </section>
+        
+        <section aria-label="Latihan pengucapan" class="voice-section">
+            <h3>Latihan Pengucapan</h3>
+            <p>Tekan tombol di bawah dan ucapkan kosakata yang muncul:</p>
+            <button id="startPracticeBtn" aria-label="Mulai latihan pengucapan">
+                <i class="fas fa-comment-dots" aria-hidden="true"></i> Mulai Latihan
+            </button>
+            <div id="currentWord" class="current-word-container" aria-live="polite"></div>
+            <div id="voiceFeedback" class="voice-feedback" aria-live="assertive"></div>
+        </section>
+    </main>
+    
+    <footer aria-label="Footer">
+        <div class="container">
+            <p>&copy; <span id="current-year">2023</span> Nihongo Master. All rights reserved.</p>
+        </div>
+    </footer>
+    
+    <!-- Load scripts -->
+  <script src="https://cdn.jsdelivr.net/npm/wanakana@5.0.0/umd/wanakana.min.js"></script>
+    <script src="js/app.js" defer></script>
+    
+    <script>
+        // Update tahun otomatis
+        document.getElementById('current-year').textContent = new Date().getFullYear();
+    </script>
+</body>
+</html>
